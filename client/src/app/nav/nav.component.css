@@ -3,5 +3,10 @@
 }
 
 a.nav-link {
+    color: grey;
+}
+
+a.nav-link.active {
     color: black;
+    font-weight: 600;
 }
